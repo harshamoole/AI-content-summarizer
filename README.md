@@ -35,3 +35,9 @@ Replace this line in `ai-content-summarizer.php`:
 
 ```php
 $api_key = getenv('OPENAI_API_KEY');
+
+## 📸 Demo
+
+| Editor View with Button |
+|-------------------------|
+| ![](assets/summary-added.png) |
